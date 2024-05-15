@@ -1,0 +1,11 @@
+C:\Users\marcelo.hxavier\Source\Repos\TelaCalculadora\TelaCalculadora_2\obj\Debug\TelaCalculadora_2.csproj.AssemblyReference.cache
+C:\Users\marcelo.hxavier\Source\Repos\TelaCalculadora\TelaCalculadora_2\obj\Debug\TelaCalculadora_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\marcelo.hxavier\Source\Repos\TelaCalculadora\TelaCalculadora_2\obj\Debug\TelaCalculadora_2.Calculadora.resources
+C:\Users\marcelo.hxavier\Source\Repos\TelaCalculadora\TelaCalculadora_2\obj\Debug\TelaCalculadora_2.Properties.Resources.resources
+C:\Users\marcelo.hxavier\Source\Repos\TelaCalculadora\TelaCalculadora_2\obj\Debug\TelaCalculadora_2.csproj.GenerateResource.cache
+C:\Users\marcelo.hxavier\Source\Repos\TelaCalculadora\TelaCalculadora_2\obj\Debug\TelaCalculadora_2.csproj.CoreCompileInputs.cache
+C:\Users\marcelo.hxavier\Source\Repos\TelaCalculadora\TelaCalculadora_2\bin\Debug\TelaCalculadora_2.exe.config
+C:\Users\marcelo.hxavier\Source\Repos\TelaCalculadora\TelaCalculadora_2\bin\Debug\TelaCalculadora_2.exe
+C:\Users\marcelo.hxavier\Source\Repos\TelaCalculadora\TelaCalculadora_2\bin\Debug\TelaCalculadora_2.pdb
+C:\Users\marcelo.hxavier\Source\Repos\TelaCalculadora\TelaCalculadora_2\obj\Debug\TelaCalculadora_2.exe
+C:\Users\marcelo.hxavier\Source\Repos\TelaCalculadora\TelaCalculadora_2\obj\Debug\TelaCalculadora_2.pdb

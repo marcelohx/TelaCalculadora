@@ -8,13 +8,7 @@ namespace TelaCalculadora_2
 {
     class Model
     {
-        public Model()
-        {
 
-        }//Fim do construtor
-        public int Somar(int num1, int num2)
-        {
-
-        }
     }
+    
 }
